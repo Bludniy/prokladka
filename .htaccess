@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^movie.([^/]*)/([^/]*)\.html$ /movie?id=$1&d=$2 [L]
