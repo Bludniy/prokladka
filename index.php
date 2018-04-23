@@ -15,7 +15,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Watch Movies Full HD Online</title>
+	<title>Watch Movies Full HD Online Free</title>
 	<meta name="description" content="Watch movies and tv series stream full hd online for free">
 	<meta name="keywords" content="watch movie online,watch movie online, watch full movie,tv series, watch movie free, tv show">
 
